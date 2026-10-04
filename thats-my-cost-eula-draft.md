@@ -1,6 +1,6 @@
 # That's My Cost: MS Sortie Planner — End User License Agreement / Terms of Service
 
-*Last updated: July 28, 2026*
+*Last updated: October 4th, 2026*
 
 ---
 
@@ -65,7 +65,11 @@ We may update these Terms from time to time. Continued use of the App after chan
 
 These Terms are governed by the laws of the State of Louisiana, United States, without regard to its conflict-of-law principles, except where local consumer protection law in your own country or state grants you additional rights that cannot be waived (in which case those local protections still apply to you).
 
-## 13. Contact
+## 13. Language
+
+This document is written in English. Translations into other languages are provided for convenience only. In the event of any conflict or inconsistency between the English version and any translation, **the English version governs**.
+
+## 14. Contact
 
 Questions about these Terms can be sent to: jrossp@hotmail.com
 
