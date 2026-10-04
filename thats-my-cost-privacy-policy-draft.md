@@ -47,6 +47,7 @@ The App maintains an internal reputation score used to weigh the reliability of 
 - **Access & deletion**: you can delete your account at any time from Settings, which removes your login credentials and personal identifiers. Aggregated, anonymized rotation data you contributed may be retained as part of the historical community record, since it no longer identifies you once disassociated from your account.
 - **Correction**: you can update your display handle or preferred platform at any time in Settings.
 - **EU/UK/California residents**: depending on your location, you may have additional rights under GDPR, UK GDPR, or CCPA (e.g. the right to request a copy of your data, or to object to certain processing). Contact us at the email above to exercise these rights.
+- **Japan residents**: under the Act on the Protection of Personal Information (APPI), you may request disclosure, correction, suspension of use, or deletion of your retained personal data. Contact us at the email above.
 
 ## 7. Children's privacy
 
@@ -64,7 +65,11 @@ We use industry-standard practices (encrypted connections, access controls, row-
 
 We may update this policy from time to time. Material changes will be reflected in the "Last updated" date above, and continued use of the App after changes take effect constitutes acceptance of the revised policy.
 
-## 11. Contact
+## 11. Language
+
+This document is written in English. Translations into other languages are provided for convenience only. In the event of any conflict or inconsistency between the English version and any translation, **the English version governs**.
+
+## 12. Contact
 
 Questions or requests regarding this policy or your data: jrossp@hotmail.com
 
