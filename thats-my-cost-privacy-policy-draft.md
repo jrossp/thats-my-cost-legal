@@ -1,5 +1,5 @@
 # That's My Cost: MS Sortie Planner — Privacy Policy
-*Last updated: July 28, 2026*
+*Last updated: October 4th, 2026*
 
 ---
 
